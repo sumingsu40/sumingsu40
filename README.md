@@ -6,6 +6,3 @@
 <br><br>
 <b>📊 My Tech Stack</b><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumingsu40&layout=compact)](https://github.com/sumingsu40/github-readme-stats)
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&bg_color=ffffff&color=26a699&line=26a699)](https://github.com/ashutosh00710/github-readme-activity-graph)
