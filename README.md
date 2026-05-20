@@ -9,12 +9,8 @@
 - **Research Interests:** Federated Learning (FL), Personalized FL (pFL), LLM Inference Optimization, Edge AI
 - 모델 추론 최적화 및 다수의 엣지 디바이스(NVIDIA Jetson, Raspberry Pi)를 활용한 분산 시스템 환경 구축 및 실험에 깊은 관심을 두고 연구를 진행하고 있습니다.
 
-<br>
-
 ## Honors & Awards
 - **Awarded at the 2025 Open Source Developer Competition** (Dec. 2025)
-
-<br>
 
 ## Experience
 
@@ -28,8 +24,6 @@
 - **Federated Learning Testbed 구축 및 성능 평가**  &emsp;  ![On-going](https://img.shields.io/badge/On--going-green?style=flat-square)
   - GCP 및 다수의 엣지 디바이스(Jetson Orin/Nano, Raspberry Pi)를 연동한 분산 학습 환경 구축
   - FLAYER, Ditto 등의 프레임워크 적용 후 학습 시간, 대기 시간 및 GPU 자원 활용도 분석
-
-<br>
 
 ## Extracurricular Activities
 - World Friends Korea (WFK) IT Volunteer (2024 06~08)
