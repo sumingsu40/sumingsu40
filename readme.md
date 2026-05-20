@@ -9,7 +9,7 @@
 - **Research Interests:** Federated Learning (FL), Personalized FL (pFL), LLM Inference Optimization, Edge AI
 - 모델 추론 최적화 및 다수의 엣지 디바이스(NVIDIA Jetson, Raspberry Pi)를 활용한 분산 시스템 환경 구축 및 실험에 깊은 관심을 두고 연구를 진행하고 있습니다.
 
-## Honors & Awards
+## Awards
 - **Awarded at the 2025 Open Source Developer Competition** (Dec. 2025)
 
 ## Experience
