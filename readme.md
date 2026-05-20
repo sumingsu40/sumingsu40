@@ -14,16 +14,16 @@
 
 ## Experience
 
+### Research & Projects
+- **Federated Learning Testbed 구축 및 성능 평가**  &emsp;  ![On-going](https://img.shields.io/badge/On--going-green?style=flat-square)
+  - GCP 및 다수의 엣지 디바이스(Jetson Orin/Nano, Raspberry Pi)를 연동한 분산 학습 환경 구축
+  - FLAYER, Ditto 등의 프레임워크 적용 후 학습 시간, 대기 시간 및 GPU 자원 활용도 분석
+
 ### Teaching Assistant
 - **CSC2003 Object-Oriented Programming** (2026 Spring)
   - Java 기반 객체지향프로그래밍 과목 조교
 - **CSC2005 System Software** (2025 Fall)
   - 시스템 소프트웨어 과목 조교
-
-### Research & Projects
-- **Federated Learning Testbed 구축 및 성능 평가**  &emsp;  ![On-going](https://img.shields.io/badge/On--going-green?style=flat-square)
-  - GCP 및 다수의 엣지 디바이스(Jetson Orin/Nano, Raspberry Pi)를 연동한 분산 학습 환경 구축
-  - FLAYER, Ditto 등의 프레임워크 적용 후 학습 시간, 대기 시간 및 GPU 자원 활용도 분석
 
 ## Extracurricular Activities
 - World Friends Korea (WFK) IT Volunteer (2024 06~08)
