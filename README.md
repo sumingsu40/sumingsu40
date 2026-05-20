@@ -34,10 +34,3 @@
 ## Extracurricular Activities
 - World Friends Korea (WFK) IT Volunteer (2024 06~08)
 - "데이터야, 놀자" 준비위원회 (2025~ )
-
-<br>
-
-## Tech Stack
-- **Languages:** Python, Java, C/C++
-- **Frameworks & Libraries:** PyTorch, sglang
-- **Infrastructure & Hardware:** GCP, NVIDIA Jetson, Raspberry Pi
