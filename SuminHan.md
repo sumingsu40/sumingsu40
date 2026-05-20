@@ -1,4 +1,4 @@
-# Sumin Han (한수민)
+# Sumin Han
 *Undergraduate Researcher @Intelligent Systems Networking Lab, Dongguk University*
 
 [![Lab Profile](https://img.shields.io/badge/Lab_Profile-Dongguk_iSN-E87722?style=flat-square)](https://isn.dongguk.edu/people/sumin-han.html)
